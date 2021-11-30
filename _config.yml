@@ -28,7 +28,6 @@ twitter_username: fofiane
 github_username:  fofia
 
 # Build settings
-theme: minima
 theme: jekyll-swiss
 theme_color: white
 plugins:
