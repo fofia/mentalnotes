@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Github y Jekyll"
-date:   2021-11-09 15:19:08 -0600
+date:   2021-12-07 15:19:08 -0600
 categories: jekyll update
 ---
 ## Como usar Github como hosting junto con Jekyll
