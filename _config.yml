@@ -22,7 +22,11 @@ title: Mental Notes
 email: fofianee@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Blog de notas e ideas creativas sobre código y diseño.
+<<<<<<< HEAD
 base url: "mentalnotes" # the subpath of your site, e.g. /blog
+=======
+baseurl: "" # the subpath of your site, e.g. /blog
+>>>>>>> 9cc6192 (new post)
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: fofiane
 github_username:  fofia

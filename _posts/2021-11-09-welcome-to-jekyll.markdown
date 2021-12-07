@@ -6,22 +6,22 @@ categories: jekyll update
 ---
 
 ## Instalación
-Estos son los pasos para la estructura inicial de como crear un blog simple en Jekyll. Primero necesitamos descargar la version mas reciente de Ruby e instalar Jekyll en la computadora esto se puede realizar desde la pagina oficial. Despues de esto realizaremos la intalacion de Jekyll desde la consola de Windows. 
+Estos son los pasos para la estructura inicial de como crear un blog simple en Jekyll. Primero necesitamos descargar la versión más reciente de Ruby e instalar Jekyll en la computadora esto se puede realizar desde la página oficial. Después de esto realizaremos la instalación de Jekyll desde la consola de Windows.
 
 ##### Links de descarga
 * [Ruby]
 * [Jekyll]
-* [Guia de instalación Brocollini]
+* [Guía de instalación Brocollini]
 * [Youtube video instalación]
 * [Stackoverflow soluciones server]
 
 [Ruby]: https://rubyinstaller.org/
 [Jekyll]:   https://jekyllrb.com/
-[Guia de instalación Brocollini]: https://broccolini.net/swiss/about/
+[Guía de instalación Brocollini]: https://broccolini.net/swiss/about/
 [Youtube video instalación]: https://www.youtube.com/watch?v=yNSOL3KYJ7Y&ab_channel=DrupalalSur
 [Stackoverflow soluciones server]: https://stackoverflow.com/questions/37055554/jekyll-serve-not-working
 
-Una vez realizadas las descargas debemos correr el Ruby Installer. Despues debemos de iniciar command prompt desde el buscador de Windows o Inicio, otra opción seria inciar la consola de Windows y verificar desde allí si Ruby fue instalado.
+Una vez realizadas las descargas debemos correr el Ruby Installer. Después debemos de iniciar command prompt desde el buscador de Windows o Inicio, otra opción seria iniciar la consola de Windows y verificar desde allí si Ruby fue instalado.
 
 Ejemplos:
 {% highlight ruby %}
@@ -35,12 +35,12 @@ C:\Users\user>gem -v
 3.2.22
 {% endhighlight %}
 
-Para installar Jekyll realizariamos la instalacion desde command prompt de Ruby.
+Para installar Jekyll realizaríamos la instalación desde command prompt de Ruby.
 {% highlight ruby %}
 C:\Users\user>gem install jekyll bundler
 {% endhighlight %}
 
-Verificando la version de Jekyll obtendriamos
+Verificando la versión de Jekyll obtendríamos
 {% highlight ruby %}
 C:\Users\user>jekyll -v
 jekyll 4.2.1
@@ -65,7 +65,7 @@ C:\Users\user>bundle exec jekyll serve
 
 ## Plantillas
 
-Este blog fue creado con la plantilla de Swiss existen distintas plantillas y sitios en los cuales puedes elegir la opcion que mas te guste o necesites.
+Este blog fue creado con la plantilla de Swiss existen distintas plantillas y sitios en los cuales puedes elegir la opción que más te guste o necesites.
 
 ![](https://cloud.githubusercontent.com/assets/334891/18477206/d9dc55fc-799a-11e6-89f2-b4ae150caa80.png)
 
@@ -81,11 +81,11 @@ Este blog fue creado con la plantilla de Swiss existen distintas plantillas y si
  [Jekyll-Themes.com]: https://jekyll-themes.com/
  
 ## Instalacion de plantillas
-Para realizar la instalacion de la plantilla Swiss buscaremos el archivo `_config.yml` en el cual modificaremos la informacion general de la web como los datos e informacion acerca del blog.
+Para realizar la instalación de la plantilla Swiss buscaremos el archivo `_config.yml` en el cual modificaremos la información general de la web como los datos e información acerca del blog.
 
-Se utilizan archivos markdown como contenedores de infomacion general estos despues se actualizan desde la terminal que estes utilizando ya sea el de windows o el editor de tu preferencia, para generar el render del archivo html de la pagina del blog.
+Se utilizan archivos markdown como contenedores de infomación general estos después se actualizan desde la terminal que estes utilizando ya sea el de windows o el editor de tu preferencia, para generar el render del archivo html de la página del blog.
 
-Tendremos dos archivos el `index.markdown` y `about.markdown` los post se nombran por medio de la fecha en la que se van creando mas el nombre del post `2021-11-09-titulo.markdown`
+Tendremos dos archivos el `index.markdown` y `about.markdown` los post se nombran por medio de la fecha en la que se van creando más el nombre del post `2021-11-09-titulo.markdown`
 
 ## Plantilla Swiss instalacion
 Desde la consola agregamos:
