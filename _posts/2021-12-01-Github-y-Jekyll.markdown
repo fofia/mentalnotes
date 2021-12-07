@@ -72,3 +72,6 @@ git push origin gh-pages
 [Youtube Tutorial]: https://www.youtube.com/watch?v=fqFjuX4VZmU&t=156s&ab_channel=MikeDane
 [Stackoverflow]: https://stackoverflow.com/questions/22514104/cant-get-site-baseurl-to-work-in-jekyll
 [MadeMistakes.com]: https://mademistakes.com/mastering-jekyll/site-url-baseurl/
+
+## Nota
+Es importante que se agregue `baseurl:"tublog"` en `_config.yml` antes de subir el update ya que de otra forma no cargara correctamente. Y para editarlo directamente en tu computadora tienes que dejar `baseurl:""` para poder ejercutarlo en el server local.
