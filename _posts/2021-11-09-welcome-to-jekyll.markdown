@@ -2,7 +2,7 @@
 layout: post
 title:  "Como crear tu primer blog con Jekyll"
 date:   2021-11-09 15:19:08 -0600
-categories: jekyll update
+categories: Código
 ---
 
 ## Instalación

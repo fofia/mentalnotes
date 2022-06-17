@@ -2,7 +2,7 @@
 layout: post
 title:  "Github y Jekyll"
 date:   2021-12-07 15:19:08 -0600
-categories: jekyll update
+categories: Código
 ---
 ## Como usar Github como hosting junto con Jekyll
 Primero tendremos que hacer una cuenta en Gihub, en la cual haremos un nuevo repository desde el sitio web para poder guardar nuestro blog o sitio creado con Jekyll. Creamos el repository cuidando que este sea un código publico. Para hacer el primer commit vamos a hacerlo directamente desde la terminal del editor que estes utilizando.
