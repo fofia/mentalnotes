@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Nuevo Projecto con Bootstrap"
-date:   2024-02-16 15:19:08 -0600
+date:   2024-02-16 11:19:08 -0600
 categories: jekyll update
 ---
 
