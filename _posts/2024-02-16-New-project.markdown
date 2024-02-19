@@ -15,7 +15,7 @@ Creando la identidad de un bien inmueble en el mundo del internet.
 
 Este blog fue creado con Bootstrap. Existen distintas plantillas y sitios en los cuales puedes elegir la opción que más te guste o necesites.
 
-![](#)
+* [Casita Azul]
 
 ##### Sitios en donde puedes encontrar plantillas
 
@@ -26,7 +26,7 @@ Este blog fue creado con Bootstrap. Existen distintas plantillas y sitios en los
  [Casita Azul]: https://fofia.github.io/casitaazul/
  [Bootstrap]: https://themes.getbootstrap.com/
  
- 
+ git checkout -b gh-pages
 ## Instalacion de Bootstrap
 Para realizar la instalación de Bootstrap, buscaremos el archivo  `compiled and minified CSS and JavaScript` en el cual tendremos la base de la jerarquía de la página web, así como los estilos y movimientos de esta.
 
